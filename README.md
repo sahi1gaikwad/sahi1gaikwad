@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahilgaikwaddev
-- 👀 I’m interested in Blockchain development
+- 👀 I’m interested in Blockchain Technology
 - 🌱 I’m currently learning "Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial" from freecodecamp
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on Twitter & Linkedin 
