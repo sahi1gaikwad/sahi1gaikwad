@@ -6,9 +6,9 @@
 
 Profile links:
 
-https://twitter.com/sahilethddev
+https://twitter.com/sahi1gaikwad
 
-https://www.linkedin.com/in/sahilethddev
+https://www.linkedin.com/in/sahi1gaikwad
 
 <!---
 sahilethddev/sahilethddev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
