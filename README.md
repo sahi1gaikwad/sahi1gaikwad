@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahilethdev, recent CS Grad
+- 👋 Hi, I’m @sahi1gaikwad, recent CS Grad
 - 👀 I’m interested in Frontend Web Development
 - 🌱 I'm currently learning CSS3
 - 💞️ I’m looking to collaborate on web projects once have the right skills
